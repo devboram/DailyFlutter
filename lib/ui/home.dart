@@ -3,6 +3,7 @@ import 'package:daily_flutter/provider/counter_provider.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
+/// 카운터 화면
 class Home extends StatelessWidget {
   const Home({Key? key}) : super(key: key);
 

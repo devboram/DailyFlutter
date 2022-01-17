@@ -44,6 +44,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "dio",
+      "rootUri": "file:///Users/dev.boram/devUtils/flutter/.pub-cache/hosted/pub.dartlang.org/dio-4.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "fake_async",
       "rootUri": "file:///Users/dev.boram/devUtils/flutter/.pub-cache/hosted/pub.dartlang.org/fake_async-1.2.0",
       "packageUri": "lib/",
@@ -64,6 +70,12 @@
     {
       "name": "flutter_test",
       "rootUri": "file:///Users/dev.boram/devUtils/flutter/packages/flutter_test",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "http_parser",
+      "rootUri": "file:///Users/dev.boram/devUtils/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -164,7 +176,7 @@
       "languageVersion": "2.15"
     }
   ],
-  "generated": "2022-01-16T13:27:43.765639Z",
+  "generated": "2022-01-16T14:59:20.140865Z",
   "generator": "pub",
   "generatorVersion": "2.15.1"
 }
